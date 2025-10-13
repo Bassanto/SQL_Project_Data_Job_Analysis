@@ -1,3 +1,4 @@
+-- Basic sections
 SELECT 
     job_title_short AS title,
     job_location AS location,
@@ -64,6 +65,7 @@ GROUP BY date,job_posted_date
 ORDER BY date
 ;
 
+-- Advance section
 SELECT 
     job_title_short,
     job_location,
