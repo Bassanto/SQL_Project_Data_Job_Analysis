@@ -66,6 +66,7 @@ GROUP BY date,job_posted_date
 ORDER BY date
 ;
 
+
 SELECT 
     job_title_short,
     job_location,
@@ -85,6 +86,7 @@ WITH january_job AS (
  SELECT *
  FROM january_job;
 
+-- subqueries
 
  SELECT
     company_id,
@@ -113,6 +115,9 @@ FROM
 GROUP BY
         company_id
 )
+;
+
+-- CTEs
 
 SELECT company_dim.name AS company_name,
 company_job_count.total_jobs
@@ -166,6 +171,8 @@ FROM remote_job_skills
 INNER JOIN skills_dim AS skills ON skills.skill_id = remote_job_skills.skill_id
 ORDER BY skill_count DESC
 LIMIT 5;
+
+-- UNION and UNION ALL
 
 SELECT 
     job_title_short,
