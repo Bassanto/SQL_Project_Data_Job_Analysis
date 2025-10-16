@@ -67,4 +67,4 @@ From the analysis, several general insights emerged:
 
 ### Closing Thoughts 
 
-    This prpject enhanced my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysts serve as a search efforts.Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continous learning and adptation to emerging trends in the field of data analystics
+This prpject enhanced my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysts serve as a search efforts.Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continous learning and adptation to emerging trends in the field of data analystics
