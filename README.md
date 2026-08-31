@@ -1,5 +1,5 @@
 # Introduction
-  Dive into the data job market! Focusing on data analystg roles, this project explores top-paying job, in-demand skills, and where high demand meets high salary in data analystics.
+  Dive into the data job market! Focusing on data analyst roles, this project explores top-paying job, in-demand skills, and where high demand meets high salary in data analystics.
 
   SQL queries? Check them out here: [2_project_sql](/2_project_sql/)
 # Background
